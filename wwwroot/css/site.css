@@ -20,3 +20,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.form-control {
+  padding: 0.5rem 0.75rem;
+}
