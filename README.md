@@ -36,4 +36,4 @@ This project demonstrates the development of an ASP.NET Core MVC application, in
 
 ## Author
 
-Wilson Cardichon
+Wilson Cardichon (to serve as a portfolio project)
