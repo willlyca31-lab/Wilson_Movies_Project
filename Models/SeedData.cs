@@ -6,7 +6,7 @@ public static class SeedData
 {
     public static void Initialize(IServiceProvider serviceProvider)
     {
-        // Retrieve the database context from dependency injection.
+        // Retrieve all the database context from dependency injection.
         var context = serviceProvider.GetRequiredService<WilsonMoviesContext>();
 
         // Check whether the database already contains movies.
