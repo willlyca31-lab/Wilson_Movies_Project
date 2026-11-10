@@ -52,6 +52,33 @@ public static class SeedData
                 Genre = "Western",
                 Price = 3.99M,
                 Rating = "Approved"
+            },
+
+            new Movie
+            {
+                Title = "Jaws",
+                ReleaseDate = new DateTime(1975, 6, 20),
+                Genre = "Thriller",
+                Price = 9.99M,
+                Rating = "4"
+            },
+
+            new Movie
+            {
+                Title = "The Matrix",
+                ReleaseDate = new DateTime(1999, 3, 31),
+                Genre = "Science Fiction",
+                Price = 10.99M,
+                Rating = "5"
+            },
+
+            new Movie
+            {
+                Title = "Inception",
+                ReleaseDate = new DateTime(2010, 7, 16),
+                Genre = "Action",
+                Price = 12.99M,
+                Rating = "5"
             }
         );
 
